@@ -10,5 +10,16 @@ I am using Twitter's API to automatically collect images of Oshi.
 
 ## How to use
 
+### setup python
+
+Setup python like below.
+
+```bash
+python3 -m venv .venv
+. .venv/bin/activate
+make install-package
+python main.py
+```
+
 TODO: implement
 
